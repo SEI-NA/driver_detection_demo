@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>102.jpg</filename>
+	<path>C:\Users\bbnsa\OneDrive\바탕 화면\driver_detection_demo\data\images\train\102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>phone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>840</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
