@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>84.jpg</filename>
+	<path>C:\Users\bbnsa\OneDrive\바탕 화면\driver_detection_demo\data\images\train\84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>67</ymin>
+			<xmax>582</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>
